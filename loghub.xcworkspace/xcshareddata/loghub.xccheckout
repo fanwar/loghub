@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>56CD47D9-C94D-42FF-9984-909B8A83BE2D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>loghub</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>982A7A50-6DDE-48F1-AA30-E0F22A7F4D2D</key>
+		<string>ssh://github.com/fanwar/loghub.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>loghub.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>982A7A50-6DDE-48F1-AA30-E0F22A7F4D2D</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/fanwar/loghub.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>982A7A50-6DDE-48F1-AA30-E0F22A7F4D2D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>982A7A50-6DDE-48F1-AA30-E0F22A7F4D2D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>loghub</string>
+		</dict>
+	</array>
+</dict>
+</plist>
